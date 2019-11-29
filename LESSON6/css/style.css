@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    font-weight: 900;
+}
+
+.box{
+    width: 600px;
+    height: 400px;
+    background: #454545 url("https://pb.twimg.com/profile_images/671373303966076929/nn8xoFyF_400x400.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
